@@ -28,6 +28,7 @@
 // @run-at          document-end
 // @include         http*://*.google.tld/search*tbm=isch*
 // @include         http*://*.google.tld/imgres*
+// @updateURL       https://github.com/Procyon-b/make-gis-great-again/raw/master/gis-vib.user.js
 // ==/UserScript==
 
 const lang = {
